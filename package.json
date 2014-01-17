@@ -1,0 +1,25 @@
+{
+  "name": "enchantress",
+  "version": "0.0.1",
+  "description": "Reads a file; executes what's in it; puts the output to another file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/v0lkan/enchantress.git"
+  },
+  "keywords": [
+    "batch",
+    "execution",
+    "portal",
+    "dropbox"
+  ],
+  "author": "Volkan Ozcelik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/v0lkan/enchantress/issues"
+  },
+  "homepage": "https://github.com/v0lkan/enchantress"
+}
